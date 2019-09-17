@@ -2,6 +2,6 @@
 
   phpinfo();
 
-  echo "<br><p color='ORANGE'>Hello World!</p>"
+  echo "<br><p color='ORANGE'>Hello World!</p>";
 
 ?>
